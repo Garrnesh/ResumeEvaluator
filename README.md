@@ -1,6 +1,6 @@
 # Resume Evaluator
 
-To install all required dependencies, run the commandnpm install
+To install all required dependencies, run the command npm install
 
 To launch the Frontend, run the command npm start
 
