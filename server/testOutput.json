@@ -1,0 +1,147 @@
+{
+  "design": {
+    "pos": [
+      "Clean, professional layout with clear section headings that make it easy to navigate",
+      "Consistent formatting throughout with good use of bullet points",
+      "Contact information is prominently displayed at the top",
+      "Good use of white space making the resume easy to scan",
+      "Sections are logically organized in order of importance (education, skills, work experience)"
+    ],
+    "neg": [
+      "Consider adding a professional summary or objective statement at the top to immediately showcase your value proposition",
+      "Some bullet points are quite long and could be broken into shorter, more impactful statements for better readability",
+      "Consider using a subtle color scheme to highlight section headers while maintaining professionalism",
+      "The GitHub link could be made more prominent as it's valuable for technical roles"
+    ]
+  },
+  "grammar": {
+    "pos": [
+      "Overall good grammar and professional tone throughout the resume",
+      "Consistent use of action verbs at the beginning of bullet points (Engineered, Deployed, Authored, etc.)",
+      "Clear and concise descriptions of technical accomplishments"
+    ],
+    "neg": [
+      "Minor inconsistency in date formatting: \"Jan 2021 - Apr 2021\" vs \"May 2024 - Aug 2024\" (with vs without spaces around the dash)",
+      "In the ThriftIt experience section, there's a typo: \"ThrifiIt\" instead of \"ThriftIt\"",
+      "Consider revising some lengthy sentences for clarity, such as in the TBWA\\Singapore experience section"
+    ]
+  },
+  "technical": {
+    "pos": [
+      "Excellent use of quantifiable metrics throughout the resume (e.g., \"increasing market search efficiency by approximately 30%\", \"90% accurate insights\", \"cutting down data extraction time by 80%\")",
+      "Good specificity in technical achievements (e.g., \"Removed 100% of depreciated Zion code\", \"over 6,000 data points with up to 80% accuracy\")",
+      "Diverse range of technical skills clearly listed with appropriate categorization",
+      "Strong variety of action verbs used (Engineered, Deployed, Authored, Crafted, Automated, Spearheaded, etc.)"
+    ],
+    "neg": [
+      "Consider adding more specific technical details about technologies used in projects (versions, specific libraries, etc.)",
+      "For blockchain experience, could add more specific metrics about transaction speed improvements or cost reduction percentages",
+      "In community service section, quantify leadership impact beyond event attendance numbers"
+    ]
+  },
+  "general": {
+    "pos": [
+      "Impressive blend of technical skills, leadership experience, and academic excellence",
+      "Strong emphasis on quantifiable achievements across all experiences",
+      "Clear progression of technical complexity from early internships to more recent blockchain work",
+      "Good balance between technical expertise and soft skills/leadership capabilities",
+      "Diverse experience across multiple domains (blockchain, data analytics, AI, full-stack development)"
+    ],
+    "neg": [
+      "Add a professional summary at the top to quickly highlight your unique value proposition",
+      "Create more distinction between academic projects and professional experience",
+      "Consider adding a section on independent projects or open-source contributions",
+      "Some experiences could benefit from more context about the technologies used or problems solved",
+      "For a technical resume, consider adding links to specific projects on your GitHub"
+    ]
+  },
+  "score": "This resume scores highly due to its strong technical content, excellent quantification of achievements, and demonstration of both technical and leadership skills. The candidate shows impressive academic credentials paired with relevant internships in cutting-edge fields like blockchain and AI. The resume effectively communicates technical expertise through well-structured bullet points with measurable outcomes. The layout is clean and ATS-friendly, though it could benefit from a professional summary and some design enhancements. The diverse experience across multiple domains demonstrates versatility, while the community involvement shows well-roundedness. Minor improvements in formatting consistency, some expanded context for companies/projects, and fixing a few typos would further strengthen this already strong resume.",
+  "final": "88",
+  "section0": {
+    "topic": "Header and Contact Information",
+    "pos": [
+      "All essential contact details are included and well-organized",
+      "LinkedIn and GitHub profiles are accessible via direct links"
+    ],
+    "neg": [
+      "Consider adding a professional title under your name to immediately identify your career focus",
+      "The personal email could be replaced with a more professional one (although this is minor)"
+    ]
+  },
+  "section1": {
+    "topic": "Education",
+    "pos": [
+      "Impressive academic credentials with dual degree programs and international experience",
+      "Clear indication of high academic performance with CGPA included",
+      "Prestigious programs highlighted (Renaissance Engineering Programme, Premier Scholars Programme)"
+    ],
+    "neg": [
+      "Consider adding relevant coursework or academic projects to highlight specific technical knowledge",
+      "The expected graduation date (Dec 2025) is close to the current date (March 2025 as per the instruction) - ensure this is accurate"
+    ]
+  },
+  "section2": {
+    "topic": "Skills",
+    "pos": [
+      "Well-organized categorization of technical skills",
+      "Comprehensive range of programming languages, frameworks, and tools relevant to software engineering",
+      "Inclusion of soft skills to complement technical abilities"
+    ],
+    "neg": [
+      "Consider indicating proficiency levels for each skill category (e.g., expert, proficient, familiar)",
+      "Group more closely related technologies together (e.g., React with Node.js and Express.js)",
+      "Add any certifications relevant to these skills if applicable"
+    ]
+  },
+  "section3": {
+    "topic": "Work & Internship Experience",
+    "pos": [
+      "Strong emphasis on quantifiable achievements rather than just responsibilities",
+      "Diverse experience across different domains (blockchain, data analytics, AI)",
+      "Clear progression of technical complexity in roles",
+      "Good use of technical terminology appropriate to each role"
+    ],
+    "neg": [
+      "Consider adding a brief 1-line description of each company to provide context, especially for less well-known organizations like Switcheo Labs",
+      "For the most recent internship (Switcheo Labs), which is currently ongoing as of resume date, highlight any ongoing projects or goals",
+      "In the DSO National Laboratories section, explain the relevance of the predictive model developed (what was it used for?)"
+    ]
+  },
+  "section4": {
+    "topic": "Project Experience (ThriftIt)",
+    "pos": [
+      "Good description of project purpose, technologies used, and your specific contributions",
+      "Clearly indicates leadership role and team coordination experience"
+    ],
+    "neg": [
+      "Add metrics on user adoption, if available (number of users, transactions, etc.)",
+      "Mention any challenges overcome during development",
+      "Fix the typo \"ThrifiIt\" to \"ThriftIt\"",
+      "Consider adding a link to the live project or repository if publicly available"
+    ]
+  },
+  "section5": {
+    "topic": "Co-Curricular Activities & Community Service",
+    "pos": [
+      "Demonstrates leadership capabilities and organizational skills",
+      "Quantifies impact with specific numbers (raised over SGD $20,000, 100 concert attendees, etc.)",
+      "Shows community involvement and social responsibility"
+    ],
+    "neg": [
+      "Briefly explain what the Renaissance Engineering Programme Jamband is for context",
+      "Add specific skills developed through these experiences that are transferable to professional settings",
+      "Consider adding outcomes of these activities beyond attendance numbers (feedback, long-term impact, etc.)"
+    ]
+  },
+  "section6": {
+    "topic": "Hobbies and Interests",
+    "pos": [
+      "Provides a glimpse of personality beyond professional qualifications",
+      "Music-related hobbies connect well with the Jamband leadership experience"
+    ],
+    "neg": [
+      "This section could be expanded slightly to show how these interests contribute to professional development",
+      "Consider adding any relevant achievements in these areas if applicable (performances, hiking expeditions, etc.)"
+    ]
+  }
+}
